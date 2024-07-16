@@ -50,3 +50,18 @@ console.log("math" , Math.round(9.6));
 
 console.log("ali" ,Math.max(10,30,22));
 // to get maximun digit , value
+
+console.log("ali", Math.min(19,-33))
+// to get minimum value
+
+console.log("ali", Math.ceil(2,3))
+// pt nhi
+
+console.log("ali" , Math.pow(3,3));
+// 3 ki power 3 
+
+console.log("ali",Math.sqrt(64))
+// get square root
+
+console.log("ali", Math.abs(-3,22));
+// always give positive number
