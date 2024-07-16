@@ -1,9 +1,9 @@
 // throw is use to make custom error its syntax is throw "  "  throw syntaxerror ("hshshs")
 
-let employs = ["ali", "kamran","janat","hamza","mohid" ,28];
-if(typeof employs != "string"){
-    throw "not valid"
-}
+// let employs = ["ali", "kamran","janat","hamza","mohid" ,28];
+// if(typeof employs != "string"){
+//     throw "not valid"
+// }
 
 
 // try , catch , finally 
@@ -36,5 +36,17 @@ console.log(Object.values(people));
 
 
 
-let studentw = new ("alii", 64);
-studentw.name(); 
+// let studentw = new ("alii", 64);
+// studentw.name(); 
+
+
+// Math Objects 
+
+console.log("math" , Math.random())   
+// select random numbers any
+
+console.log("math" , Math.round(9.6));
+// round off number 
+
+console.log("ali" ,Math.max(10,30,22));
+// to get maximun digit , value
