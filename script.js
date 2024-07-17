@@ -76,6 +76,11 @@ console.log("milisecond", date.getMilliseconds())
 // get mili second 
 
 let t = new Date();
-console.log("time",date.getTime);
+console.log("time",date.getTime());
 // get time
 
+let f = new Date();
+console.log("full",date.setFullYear())
+
+let j = new Date();
+console.log("ja",date.getHours())
