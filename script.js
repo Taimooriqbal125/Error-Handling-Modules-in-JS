@@ -40,7 +40,7 @@ console.log(Object.values(people));
 // studentw.name(); 
 
 
-// Math Objects 
+// Math Objects hhhhhhhhhhhhhhhh
 
 console.log("math" , Math.random())   
 // select random numbers any
@@ -65,3 +65,17 @@ console.log("ali",Math.sqrt(64))
 
 console.log("ali", Math.abs(-3,22));
 // always give positive number
+
+// Date and time in js same like math.objects 
+let date = new Date();
+console.log("Second",date.getSeconds());
+// get second 
+
+let m = new Date();
+console.log("milisecond", date.getMilliseconds())
+// get mili second 
+
+let t = new Date();
+console.log("time",date.getTime);
+// get time
+
